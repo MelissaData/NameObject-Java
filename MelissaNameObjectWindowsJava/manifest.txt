@@ -1,0 +1,2 @@
+Class-Path: mdName.jar
+Main-Class: MelissaNameObjectWindowsJava
