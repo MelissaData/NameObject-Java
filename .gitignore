@@ -18,12 +18,9 @@
 
 Data/
 
+
 mdName.dll
 mdName.dll.hash
 libmdName.so
 libmdName.so.hash
-
-#include
-!mdName.jar
-
 

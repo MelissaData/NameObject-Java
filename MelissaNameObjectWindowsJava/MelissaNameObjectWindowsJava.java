@@ -54,7 +54,6 @@ public class MelissaNameObjectWindowsJava {
 
         dataContainer.Name = stdin.readLine();
       } else {
-        System.out.println("|" + testName + "|");
         dataContainer.Name = testName;
       }
 
