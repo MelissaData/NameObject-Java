@@ -59,7 +59,7 @@ public class MelissaNameObjectWindowsJava {
 
       // Print user input
       System.out.println("\n============================== INPUTS ==============================\n");
-      System.out.println("\t               Name: " + dataContainer.Name);
+      System.out.println("\t                 Name: " + dataContainer.Name);
 
       // Execute Name Object
       nameObject.ExecuteObjectAndResultCodes(dataContainer);
@@ -75,8 +75,7 @@ public class MelissaNameObjectWindowsJava {
       System.out.println("\t           Suffix: " + nameObject.mdNameObj.GetSuffix());
       System.out.println("\t           Gender: " + nameObject.mdNameObj.GetGender());
       System.out.println("\t       Salutation: " + nameObject.mdNameObj.GetSalutation());
-
-      System.out.println("\t  Result Codes: " + dataContainer.ResultCodes);
+      System.out.println("\t     Result Codes: " + dataContainer.ResultCodes);
 
       String[] rs = dataContainer.ResultCodes.split(",");
       for (String r : rs) {
