@@ -5,7 +5,7 @@ This code showcases the Melissa Name Object using Java.
 
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For the latest Melissa Name Object release notes, please visit: https://releasenotes.melissa.com/on-premise-api/name-object/
+To view the latest Melissa Name Object release notes or to subscribe to product notifications, please visit: https://releasenotes.melissa.com/on-premise-api/name-object/
 
 For further details, please visit: https://docs.melissa.com/on-premise-api/name-object/name-object-quickstart.html
 
@@ -25,8 +25,8 @@ And return
 - Result Codes
 
 ## Tested Environments
-- Windows 10 64-bit Java 19, Powershell 5.1
-- Melissa data files for 2026-01
+- Windows 11 64-bit Java 19, Powershell 5.1
+- Melissa data files for 2026-02
 
 ## Required Files and Programs
 
@@ -73,8 +73,8 @@ The console will then prompt you with the following warning shown in the image b
 
 #### Download this project
 ```
-git clone https://github.com/MelissaData/NameObject-Java
-cd NameObject-Java
+git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/java/melissanameobjectwindowsjava.git
+cd melissanameobjectwindowsjava
 ```
 
 #### Set up Melissa Updater 
